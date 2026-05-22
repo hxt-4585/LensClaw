@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rtk ls *)",
+      "Bash(pip config *)",
+      "Bash(python \"E:/AppData/PycharmProjects/LensClaw/workspace/office/skills/weather/weather.py\" \"Beijing\")"
+    ]
+  }
+}
